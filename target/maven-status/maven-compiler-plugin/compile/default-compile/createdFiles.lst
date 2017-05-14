@@ -1,0 +1,4 @@
+com\florincernat\webchat\WebChatEndpoint.class
+com\florincernat\webchat\ChatMessageDecoder.class
+com\florincernat\webchat\ChatMessageEncoder.class
+com\florincernat\webchat\ChatMessage.class
